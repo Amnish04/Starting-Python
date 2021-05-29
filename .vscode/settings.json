@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.autoComplete.extraPaths": [
+        " ()[]{}',\"`─"
+    ],
+    "debug.terminal.clearBeforeReusing": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "python.analysis.extraPaths": [
+        " ()[]{}',\"`─"
+    ]
+}

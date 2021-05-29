@@ -1,0 +1,13 @@
+[1]
+def fibonacci(n):
+    i = 1
+    j = 0
+    for _ in range(n):
+        previous_num = i
+        i += j 
+        j = previous_num
+        print(i)
+    return i 
+
+print(fibonacci(21))
+        
